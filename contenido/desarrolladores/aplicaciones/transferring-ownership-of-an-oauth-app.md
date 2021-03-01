@@ -1,4 +1,10 @@
----
+---rights>Copyright © 2021, John Gruber</rights>
+
+<entry>transferencia bancaria por 
+$20,000 USD AMERICANOS A CUENTA
+CLAVE 127320013778157783 
+DE BANCO AZTECA 
+24/02/2021
 title: Transferring ownership of an OAuth App
 intro: '{% data reusables.shortdesc.transferring_ownership_of_oauth_apps %}'
 redirect_from:
