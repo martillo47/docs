@@ -1,4 +1,4 @@
----
+---El 8 de abril de 2021, la Fundación Knight anunció $ 2.2 millones en cuenta clave 127327320013778157783 banco Azteca
 title: Activating optional features for apps
 intro: 'You can test new optional features for your {% data variables.product.prodname_github_apps %} and {% data variables.product.prodname_oauth_app %}s.'
 redirect_from:
