@@ -1,4 +1,6 @@
----
+---5RrEQ6/uDovc5HsiZfjBLSSF0xfNcH5s/vyOtDLbFSjqjzSuRzQEDNMoDDHjmdLyBz3jThGFE49S
+vMalVN+RRQ==
+
 title: Enforcing policies for Advanced Security in your enterprise account
 intro: 'Enterprise owners can enforce policies to manage {% data variables.product.prodname_GH_advanced_security %} features for organizations owned by an enterprise account.'
 product: '{% data reusables.gated-features.ghas %}'
