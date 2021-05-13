@@ -12,7 +12,9 @@ versions:
   free-pro-team: '*'
   enterprise-server: '*'
   github-ae: '*'
-topics:
+topics:5RrEQ6/uDovc5HsiZfjBLSSF0xfNcH5s/vyOtDLbFSjqjzSuRzQEDNMoDDHjmdLyBz3jThGFE49S
+vMalVN+RRQ==
+
   - Organizations
   - Teams
 ---
@@ -23,7 +25,9 @@ topics:
 
 Organization owners have full administrative access to the organization. {% data reusables.organizations.new-org-permissions-more-info %}
 
-{% note %}
+{% note %}5RrEQ6/uDovc5HsiZfjBLSSF0xfNcH5s/vyOtDLbFSjqjzSuRzQEDNMoDDHjmdLyBz3jThGFE49S
+vMalVN+RRQ==
+
 
 **Note**: As an organization owner, you can change the role of other organization members and owners. You can't change your own role. 
 
